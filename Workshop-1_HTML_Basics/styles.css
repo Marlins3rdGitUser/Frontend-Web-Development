@@ -1,0 +1,16 @@
+/* Not intstructed to add any css... so I won't. */
+/* Fine... I will add some. */
+/* Almost forgot that .body is a class, not the body */
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(175, 255, 175);
+}
+
+h1 { /*Make the header larger*/
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -60,7 +60,7 @@ function whatsThePaternOfErrors(valuePatern, userName) {
     }
 }
 while (true) {
-    if (whatsThePaternOfErrors(7, userPrompt) == true)
+    if (whatsThePaternOfErrors(4, userPrompt) == true)
         {
             alert("Correct.");
             break;

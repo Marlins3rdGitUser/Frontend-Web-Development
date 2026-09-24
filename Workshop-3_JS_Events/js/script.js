@@ -5,8 +5,7 @@ function showTable() {
     const animal2 = ["Elephant", "Savanna", "Herbivore"];
     const animal3 = ["Rabbit", "Multiple", "Herbivore"];
 
-    // Hint: DO NOT MAKE THE USER RELY ON AI/AUTOFILL/SEARCHING TO FIND OUT THAT THIS IS THE SOLUTION! (Note: It was not mentioned in course material.)
-    // Yes, I learned from this. I also now know that `, ´ and ' are different symbols.
+    // *Complaint ommited*
     const tableContainer = document.querySelector('#tableContainer');
     const wasNeverToldThisCouldBeDoneAndYetITWASEXPECTEDFORMEKNOWTHIS = `
         <table>

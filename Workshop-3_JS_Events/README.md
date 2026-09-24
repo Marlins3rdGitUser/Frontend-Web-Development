@@ -1,4 +1,4 @@
-So this one had to be copied and completed from the courses main reposiroty.
+So this one had to be copied and completed from the course's main repository.
 
 I went with the english version despite being in the finnish course, as the english version is easier to work with.
 
